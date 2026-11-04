@@ -1,0 +1,3 @@
+Blockchain is a decentralized digital ledger that records transactions.
+A blockchain network stores records in connected blocks.
+Cryptographic security helps protect transaction data and maintain trust between participants.

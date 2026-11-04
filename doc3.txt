@@ -1,0 +1,3 @@
+Cloud computing provides computing resources and services over the internet.
+Users can store data, run applications, and access online services.
+Cloud platforms provide scalable storage, processing power, and flexible infrastructure.

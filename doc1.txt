@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence.
+It uses data and algorithms to train computer models.
+Machine learning systems identify patterns in data and improve their predictions.
+Common applications include image recognition, recommendation systems, and forecasting.

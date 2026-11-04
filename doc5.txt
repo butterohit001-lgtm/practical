@@ -1,0 +1,3 @@
+Cloud storage allows users to save files and access data over the internet.
+Cloud computing platforms provide online storage services for individuals and businesses.
+Scalable cloud storage makes it easier to manage, back up, and share digital files.
